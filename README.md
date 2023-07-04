@@ -1,4 +1,4 @@
-#Investment team assignment
+# Investment team assignment
 
 This repository contains the code and materials for the assignment. The assignment helped me learn dynamic web scraping, utilizing Jupyter Notebook, and working with Google Colaboratory.
 
